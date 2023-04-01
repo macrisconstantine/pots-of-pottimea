@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: dc4eedd49a3892646ad7e27902c476b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - brownPots: {fileID: 7732188030048612037, guid: 64824c7b2c1e1c64abdf710d042b3653, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
